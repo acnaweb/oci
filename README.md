@@ -6,7 +6,7 @@ Oracle Cloud Infrastructure
 
 ### Compute
 
-![](assets/docs/src/compute/compute.png)
+![](assets/docs/src/compute/compute.svg)
 
 ### VCN (Virtual Cloud Network)
 
