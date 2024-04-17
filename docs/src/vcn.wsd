@@ -1,0 +1,22 @@
+@startmindmap
+
+Title "Virtual Cloud Network - VCN"
+
+*[#F8F8FF]  VCN
+
+**[#LightGray] Capabilities
+
+***_ VM: cores + memory
+***_ BM
+***_ Serveless functions
+***_ Containers and K8s (OKE)
+***_ GPUs: ML, math
+***_ HPC (High Performance Compute)
+
+left side
+
+**[#LightGray] (DVM) Dedicated VM Hosts
+
+
+
+@endmindmap

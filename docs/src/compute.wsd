@@ -1,0 +1,61 @@
+@startmindmap
+
+Title "Oracle Compute"
+
+*[#F8F8FF]  Compute
+
+**[#LightGray] Capabilities
+
+***_ VM: cores + memory
+***_ BM
+***_ Serveless functions
+***_ Containers and K8s (OKE)
+***_ GPUs: ML, math
+***_ HPC (High Performance Compute)
+
+**[#LightGray] Shape
+
+***_ Standard
+***_ Dense IO: database, big data -> HP local storage
+***_ GPU Shape: ML, match -> hardware acelerated
+***_ HPC Shape: High frequency processor and cluster -> crash simulations
+
+left side
+
+**[#LightGray] (DVM) Dedicated VM Hosts
+
+***_ VM on a Physical Server
+***_ Single Tenancy
+***_ Limitations (autoscaling/instance pool/live migration)
+***_ Not shared
+
+*** Shape
+****_ Standard: DVH.Standard2 <> VM.Standard2 series
+
+
+**[#LightGray] VM Server
+
+***_ Hypervisor
+
+*** Shape
+****_ Standard: VM.Standard.E4.Flex (block storage)
+****_ Dense IO: VM.DenseIO.EA.Flex (+ local storage)
+****_ GPU: VM.GPU3.4
+
+**[#LightGray] Bare Metal Server (IaaS)
+
+***_ Dedicated Physical Host
+***_ No Hypervisor
+***_ Full control with Customer
+***_ No noisy
+
+*** Shape
+****_  Standard (OCPU)
+****_ BM.Standard3.64 1 TB Mem
+****_ BM.Standard.E4.128 2 TB Mem
+****_ BM.Standard.E4.192 2,2 TB Mem
+
+
+
+
+@endmindmap
