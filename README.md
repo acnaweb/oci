@@ -6,13 +6,21 @@ Oracle Cloud Infrastructure
 
 ### Compute
 
+#### Mapa Mental
+
 ![](assets/docs/src/compute/compute.svg)
 
 ### VCN (Virtual Cloud Network)
 
+#### Mapa Mental
+
 ![](assets/docs/src/vcn/vcn.svg)
 
+#### Tools
+
 - [IP Subnet Calculator](https://www.subnet-calculator.com/subnet.php)
+
+#### Arquitetura
 
 ![](assets/imgs/oci-vcn.png)
 
