@@ -9,12 +9,17 @@ Title "Virtual Cloud Network - VCN"
 ***_ Private: Isolated by Tenancy
 ***_ Customizable IP IPv4 CIDR
 ***_ class: A -> 10.0.0.0/16 -> 256 subnets
-
-
-*** Subnets (Tenancy)
-****_ mask: 10.0.0.0/24
+***_ Security list: for instance
+***_ Route Tables: How traffic between VCN / internet
+***_ Internet Gateway: Offers between VCN / internet
+***_ NAT Gateway: Instance connections without expose their IP
+***_ Service Gateway: Acesses do Oracle services same region
+***_ Dynamic Routing Gateway (DRG): VCN:VNC / VCN:on-premisses, VCN:other clouds
 
 left side
 
+**[#LightGray]  Subnets (Tenancy)
+***_ Subnet A: 10.0.1.0/24 -> 256 hosts
+***_ Subnet B: 10.0.2.0/24 -> 256 hosts
 
 @endmindmap
