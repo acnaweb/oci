@@ -4,19 +4,17 @@ Title "Virtual Cloud Network - VCN"
 
 *[#F8F8FF]  VCN
 
-**[#LightGray] Capabilities
+**[#LightGray] Features
 
-***_ VM: cores + memory
-***_ BM
-***_ Serveless functions
-***_ Containers and K8s (OKE)
-***_ GPUs: ML, math
-***_ HPC (High Performance Compute)
+***_ Private: Isolated by Tenancy
+***_ Customizable IP IPv4 CIDR
+***_ class: A -> 10.0.0.0/16 -> 256 subnets
+
+
+*** Subnets (Tenancy)
+****_ mask: 10.0.0.0/24
 
 left side
-
-**[#LightGray] (DVM) Dedicated VM Hosts
-
 
 
 @endmindmap
