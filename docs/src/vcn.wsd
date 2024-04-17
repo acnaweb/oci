@@ -19,20 +19,23 @@ Title "Virtual Cloud Network - VCN"
 ***_ Remote Peering Gatewary (RPG): LPGs across regions
 ***_ Network Security Groups(NSG): Virtual firewall for resources within the same VCN
 
-
 left side
 
 **[#LightGray] Routing Table
-***_ Subnet A: 10.0.1.0/24 -> 256 hosts
+***_ Internet Gateway
+***_ Out of the VCN
+***_ Each rule specifies a destination CIDR block and target inside CIDER
+***_ CIDR: 0.0.0.0/0 Internet -> target: Internet Gateway
+***_ VCN has default route table that has no rules
+***_ Subnet uses a single route table 
+***_ Blackholed - traffic droped
+***_ Increases infraestructure flexibility
 
 **[#LightGray] Subnets (Tenancy)
 ***_ Subnet A: 10.0.1.0/24 -> 256 hosts
 ***_ Subnet B: 10.0.2.0/24 -> 256 hosts
 ***_ Regional or specific to an AD
-***_ VNIC (IP): attach to instance - same route table/securit lists/NSG
+***_ VNIC (IP): attach to instance - same route table/Securit Lists/NSG
 ***_ Public (internet) or Private (db, patch)
-
-
-
 
 @endmindmap
