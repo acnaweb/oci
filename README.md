@@ -19,3 +19,4 @@ Oracle Cloud Infrastructure
 ## References 
 
 - https://oracle.com/cloud
+- https://www.udemy.com/course/oracle-cloud-foundations-associate-1z0-1085
