@@ -10,7 +10,7 @@ Oracle Cloud Infrastructure
 
 ### VCN (Virtual Cloud Network)
 
-![](assets/docs/src/vcn/vcn.png)
+![](assets/docs/src/vcn/vcn.svg)
 
 - [IP Subnet Calculator](https://www.subnet-calculator.com/subnet.php)
 
