@@ -24,6 +24,10 @@ Oracle Cloud Infrastructure
 
 ![](assets/imgs/oci-vcn.png)
 
+#### Load Balancer
+
+![](assets/imgs/oci-load-balancer.png)
+
 ## References 
 
 - https://oracle.com/cloud

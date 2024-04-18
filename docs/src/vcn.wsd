@@ -19,6 +19,23 @@ Title "Virtual Cloud Network - VCN"
 ***_ Remote Peering Gatewary (RPG): LPGs across regions
 ***_ Network Security Groups(NSG): Virtual firewall for resources within the same VCN
 
+**[#LightGray] Load Balancer
+***_ Traffic distribution
+***_ Automatically rerouting traffic 
+***_ Built-in health checks
+***_ http/s, tcp, udp
+***_ Session statefull: enables stickiness
+***_ Policies: least connections - equilibrates
+***_ Policies: round-robin
+***_ Policies: IP hashing
+***_ Backend set configuration
+***_ Security: WAF -> DDoS protection
+
+
+**[#LightGray] Security List
+***_ Virtual firewall for an instance
+***_ Ingress & Egress in Subnet
+
 left side
 
 **[#LightGray] Routing Table
