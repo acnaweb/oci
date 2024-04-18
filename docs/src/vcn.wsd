@@ -1,6 +1,7 @@
 @startmindmap
 
-Title "Virtual Cloud Network - VCN"
+Title "OCI/VCN - Virtual Cloud Network"
+footer Disponível em: https://github.com/acnaweb/oci
 
 *[#F8F8FF]  VCN
 
@@ -30,7 +31,6 @@ Title "Virtual Cloud Network - VCN"
 ***_ Policies: IP hashing
 ***_ Backend set configuration
 ***_ Security: WAF -> DDoS protection
-
 
 **[#LightGray] Security List
 ***_ Virtual firewall for an instance

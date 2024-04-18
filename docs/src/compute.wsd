@@ -1,6 +1,7 @@
 @startmindmap
 
 Title "Oracle Compute"
+footer Disponível em: https://github.com/acnaweb/oci
 
 *[#F8F8FF]  Compute
 
@@ -54,7 +55,6 @@ left side
 ****_ BM.Standard3.64 1 TB Mem
 ****_ BM.Standard.E4.128 2 TB Mem
 ****_ BM.Standard.E4.192 2,2 TB Mem
-
 
 
 
