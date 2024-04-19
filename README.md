@@ -12,23 +12,35 @@ Oracle Cloud Infrastructure
 
 ### VCN (Virtual Cloud Network)
 
+>  Architecture
+
+![](assets/imgs/oci-vcn.png)
+
+
 #### Mind Map
 
 ![](assets/docs/src/vcn/vcn.svg)
 
-#### Tools
+#### Subnet
 
-- [IP Subnet Calculator](https://www.subnet-calculator.com/subnet.php)
+![](assets/docs/src/subnet/subnet.svg)
 
-#### Architecture
+#### Security List
 
-![](assets/imgs/oci-vcn.png)
+![](assets/docs/src/security_list/security_list.svg)
 
 #### Load Balancer
 
+>  Architecture
+
 ![](assets/imgs/oci-load-balancer.png)
+
+#### Mind Map
+
+![](assets/docs/src/load_balancer/load_balancer.svg)
 
 ## References 
 
 - https://oracle.com/cloud
 - https://www.udemy.com/course/oracle-cloud-foundations-associate-1z0-1085
+- [IP Subnet Calculator](https://www.subnet-calculator.com/subnet.php)

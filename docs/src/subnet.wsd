@@ -1,0 +1,22 @@
+@startmindmap
+
+Title "OCI/VCN - Virtual Cloud Network"
+footer Disponível em: https://github.com/acnaweb/oci
+
+*[#F8F8FF]  VCN
+
+**[#LightGray] Features
+
+***_ class: A -> 10.0.0.0/16 -> 256 subnets
+
+
+**[#LightGray] Subnets (Tenancy)
+
+***_ Subnet A: 10.0.1.0/24 -> 256 hosts
+***_ Subnet B: 10.0.2.0/24 -> 256 hosts
+***_ Regional or specific to an AD
+***_ VNIC (IP): attach to instance - same route table/Securit Lists/NSG
+***_ Public (internet) or Private (db, patch)
+
+
+@endmindmap

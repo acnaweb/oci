@@ -1,0 +1,16 @@
+@startmindmap
+
+Title "OCI/VCN - Virtual Cloud Network"
+footer Disponível em: https://github.com/acnaweb/oci
+
+*[#F8F8FF]  VCN
+
+**[#LightGray] Features
+
+***_ Security list: Virtual firewall for an instance
+
+**[#LightGray] Security List
+***_ Virtual firewall for an instance
+***_ Ingress & Egress in Subnet
+
+@endmindmap
