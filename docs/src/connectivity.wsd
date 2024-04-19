@@ -1,12 +1,16 @@
-@startmindmap
+@startuml
 
-Title "OCI/VCN - Customer Connectivity"
+title "OCI - Customer Connectivity"
 footer Disponível em: https://github.com/acnaweb/oci
 
-*[#F8F8FF]  Customer Connectivity
+:Comparison
+|= Site-to-Site VPN |= FastConnect |
+| Public internet | Physical private connection / Dedicated |
+| Easy VPN devices | Network provider or colocation |
+| Cheaper | Expensive |
+| Speed: Max bandwidth up to 1 Gbps per tunnel | Speed: 1 - 10 Gbps or 100 Gbps |
+| Latency: Depending on internet conditions | Latency: Lower and consistent |
+| Reliabity: Relies on public internet | Reliabity: High |
+;
 
-**[#LightGray] Features
-
-***_ Private: Isolated by Tenancy
-
-@endmindmap
+@enduml

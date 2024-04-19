@@ -51,7 +51,6 @@ Oracle Cloud Infrastructure
 
 ![](assets/imgs/oci-customer_connectivity.png)
 
-#### Mind Map
 
 ![](assets/docs/src/connectivity/connectivity.svg)
 
