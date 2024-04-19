@@ -2,6 +2,11 @@
 
 Oracle Cloud Infrastructure
 
+## Index
+
+- [Compute](#compute)
+- [Customer Connectivity](#customer-connectivity)
+
 ## Services
 
 ### Compute
@@ -21,15 +26,15 @@ Oracle Cloud Infrastructure
 
 ![](assets/docs/src/vcn/vcn.svg)
 
-#### Subnet
+### Subnet
 
 ![](assets/docs/src/subnet/subnet.svg)
 
-#### Security List
+### Security List
 
 ![](assets/docs/src/security_list/security_list.svg)
 
-#### Load Balancer
+### Load Balancer
 
 >  Architecture
 
@@ -38,6 +43,17 @@ Oracle Cloud Infrastructure
 #### Mind Map
 
 ![](assets/docs/src/load_balancer/load_balancer.svg)
+
+
+### Customer Connectivity
+
+>  Architecture
+
+![](assets/imgs/oci-customer_connectivity.png)
+
+#### Mind Map
+
+![](assets/docs/src/connectivity/connectivity.svg)
 
 ## References 
 

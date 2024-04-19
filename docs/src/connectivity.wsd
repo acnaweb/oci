@@ -1,0 +1,12 @@
+@startmindmap
+
+Title "OCI/VCN - Customer Connectivity"
+footer Disponível em: https://github.com/acnaweb/oci
+
+*[#F8F8FF]  Customer Connectivity
+
+**[#LightGray] Features
+
+***_ Private: Isolated by Tenancy
+
+@endmindmap

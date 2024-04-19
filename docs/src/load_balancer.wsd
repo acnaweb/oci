@@ -12,7 +12,7 @@ footer Disponível em: https://github.com/acnaweb/oci
 ***_ http/s, tcp, udp
 ***_ Session statefull: enables stickiness
 ***_ Policies: least connections - equilibrates
-***_ Policies: round-robin
+***_ Policies: round-robin (balanced)
 ***_ Policies: IP hashing
 ***_ Backend set configuration
 ***_ Security: WAF -> DDoS protection
