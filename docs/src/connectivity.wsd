@@ -11,6 +11,7 @@ footer Disponível em: https://github.com/acnaweb/oci
 | Speed: Max bandwidth up to 1 Gbps per tunnel | Speed: 1 - 10 Gbps or 100 Gbps |
 | Latency: Depending on internet conditions | Latency: Lower and consistent |
 | Reliabity: Relies on public internet | Reliabity: High |
+| Encryption: end2end | Reliabity: not encrypted |
 ;
 
 @enduml
