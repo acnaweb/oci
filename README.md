@@ -4,16 +4,16 @@ Oracle Cloud Infrastructure
 
 ## Index
 
-- [Compute](#compute)
-- [Customer Connectivity](#customer-connectivity)
+- [1. Compute](#compute)
+- [2. Networking Services](#networking-services)
 
-## Services
-
-### Compute
+## 1. Compute
 
 #### Mind Map
 
-![](assets/docs/src/compute/compute.svg)
+![](assets/docs/networking/compute/compute.svg)
+
+## 2. Networking Services
 
 ### VCN (Virtual Cloud Network)
 
@@ -24,15 +24,15 @@ Oracle Cloud Infrastructure
 
 #### Mind Map
 
-![](assets/docs/src/vcn/vcn.svg)
+![](assets/docs/networking/vcn/vcn.svg)
 
 ### Subnet
 
-![](assets/docs/src/subnet/subnet.svg)
+![](assets/docs/networking/subnet/subnet.svg)
 
 ### Security List
 
-![](assets/docs/src/security_list/security_list.svg)
+![](assets/docs/networking/security_list/security_list.svg)
 
 ### Load Balancer
 
@@ -42,7 +42,7 @@ Oracle Cloud Infrastructure
 
 #### Mind Map
 
-![](assets/docs/src/load_balancer/load_balancer.svg)
+![](assets/docs/networking/load_balancer/load_balancer.svg)
 
 
 ### Customer Connectivity
@@ -52,7 +52,7 @@ Oracle Cloud Infrastructure
 ![](assets/imgs/oci-customer_connectivity.png)
 
 
-![](assets/docs/src/connectivity/connectivity.svg)
+![](assets/docs/networking/connectivity/connectivity.svg)
 
 ## References 
 
