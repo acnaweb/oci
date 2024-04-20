@@ -53,6 +53,12 @@ Oracle Cloud Infrastructure
 
 ![](assets/docs/networking/connectivity/connectivity.svg)
 
+## 3. Database Services
+
+### How it's divides?
+
+![](assets/docs/database/database-services/database-services.svg)
+
 ## References 
 
 - https://oracle.com/cloud
