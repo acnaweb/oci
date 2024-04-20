@@ -1,17 +1,17 @@
-@startuml
+@startmindmap
 
 title "OCI - Database Services"
 footer Disponível em: https://github.com/acnaweb/oci
 
-:Comparison
-|= Site-to-Site VPN |= FastConnect |
-| Public internet | Physical private connection / Dedicated |
-| Easy VPN devices | Network provider or colocation |
-| Cheaper | Expensive |
-| Speed: Max bandwidth up to 1 Gbps per tunnel | Speed: 1 - 10 Gbps or 100 Gbps |
-| Latency: Depending on internet conditions | Latency: Lower and consistent |
-| Reliabity: Relies on public internet | Reliabity: High |
-| Encryption: end2end | Reliabity: not encrypted |
-;
+*[#F8F8FF]  Database Services
 
-@enduml
+**[#LightGray] Oracle Public Cloud
+***_ VM - Base Database Service (RAC)
+***_ Exatada Database Service Dedicated (Data Center)
+***_ Autonomous Database Shared/Dedicated Exatada \nManaged Service
+
+**[#LightGray] Cloud@Customer(Customer Data Center)
+***_ ExaCC - Exatada Database Service on Cloud@Customer (CDB)
+***_ Autonomous Database on Exatada Cloud@Customer (PDB)
+
+@endmindmap
