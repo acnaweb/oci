@@ -11,7 +11,7 @@ Oracle Cloud Infrastructure
 
 #### Mind Map
 
-![](assets/docs/networking/compute/compute.svg)
+![](assets/docs/compute/compute/compute.svg)
 
 ## 2. Networking Services
 
@@ -20,7 +20,6 @@ Oracle Cloud Infrastructure
 >  Architecture
 
 ![](assets/imgs/oci-vcn.png)
-
 
 #### Mind Map
 
