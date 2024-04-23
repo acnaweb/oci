@@ -1,0 +1,12 @@
+@startmindmap
+
+title "OCI - Exadata Database Service (ExaCC/Cloud Customer)"
+footer Disponível em: https://github.com/acnaweb/oci
+
+*[#F8F8FF] ExaCC
+
+**_ Same of ExaCS
+**_ Customer Data center
+**_ Compliance and Data Sovereignty: Organizations with strict data residency, regulatory, polity requirements
+
+@endmindmap

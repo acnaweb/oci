@@ -1,0 +1,19 @@
+@startmindmap
+
+title "OCI - MySql Heatware"
+footer Disponível em: https://github.com/acnaweb/oci
+
+*[#F8F8FF] MySql Heatware
+
+**_ Cluster: instance + multiple HeatWave
+**_ Massive Performance Boost: 1400x faster then Amazon Aurora
+**_ ML Integration: Run algo without moving data out
+**_ Real-time Analytics: in-memory hybrid columnar format + parallel processing
+**_ Cost-effetive: 1/2 the cost of Autora
+**_ Scales by add nodes to the cluster
+**_ Security: uses OCI
+**_ Managed full by Oracle
+**_ Availability: OCI, AWS, Azure customer@data
+
+
+@endmindmap

@@ -1,0 +1,22 @@
+@startmindmap
+
+title "OCI - Oracle Base Database Services"
+footer Disponível em: https://github.com/acnaweb/oci
+
+*[#F8F8FF] Overview
+
+**_ Enterprise/Standard Database Service running on VM
+**_ Editions: SE, EE, XE
+**_ Automated Backups -> Object Storage/Full and Incremental
+**_ High Availability -> RAC + Failover across regions
+**_ Disaster Recovery-> Data Guard
+**_ Security Features: transparente data encryption (TDE) default
+**_ Scalability: Compute and storage
+**_ Licensing: Bring your own licences (BYOL) / License included
+
+**[#LightGray] Shapes: CPU and/or Storage
+***_ Ampere: Cost Effective - VM.Standard.A1.Flex
+***_ AMD: VM.Standard.E4.Flex
+***_ Intel X9:VM.Standard2.Flex
+
+@endmindmap

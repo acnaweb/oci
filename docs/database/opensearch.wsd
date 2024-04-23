@@ -1,0 +1,18 @@
+@startmindmap
+
+title "OCI - OpenSearch"
+footer Disponível em: https://github.com/acnaweb/oci
+
+*[#F8F8FF] OpenSearch
+
+**_ Input: text, image, social, graphs, structured, unstructed data
+**_ Community: search + analytics suite \nhttps://camel.apache.org/components/4.4.x/opensearch-component.html
+**_ Managed
+**_ Search Monitor 
+**_ Visualize (OpenSearch Dashboard)
+**_ Scalable: clustered
+**_ Security: auth, autho, audit, loggin, encryption
+**_ SQL suppert for query
+
+
+@endmindmap

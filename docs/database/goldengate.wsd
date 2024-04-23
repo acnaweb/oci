@@ -1,0 +1,14 @@
+@startmindmap
+
+title "OCI - Goldengate"
+footer Disponível em: https://github.com/acnaweb/oci
+
+*[#F8F8FF] Goldengate
+
+**_ Data Ingestion: relational/non-relational/apps/stream
+**_ ELT
+**_ Migrations and upgrades
+**_ Transactional consistency: same order as they occurs
+**_ Continouus Data Availability
+
+@endmindmap

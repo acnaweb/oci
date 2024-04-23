@@ -1,0 +1,21 @@
+@startmindmap
+
+title "OCI - Exadata Database Service (ExaCS/Cloud Service) Box"
+footer Disponível em: https://github.com/acnaweb/oci
+
+*[#F8F8FF] ExaCS
+
+**_ Customer - Data/Schema | Databases | VMs (DomU)
+**_ OCI -  Hypervisor | Exatada DB Servers | NW Fabric | Exadata Storage Servers
+**_ Cloud Integration: Exadata capabilities with OCI
+**_ Perfomance: OLTP, analytics, storage indexes, flash cache
+**_ Managed Service: manage infra, patching, backup, recovery
+**_ High Availability -> RAC + Failover across regions
+**_ Security Features: transparente data encryption (TDE) default
+**_ Scalability: Compute (billing) and storage
+
+**[#LightGray] Deploy: Exadata Quarter Rack
+***_ Half Rack: 4 db, 6 storage
+***_ Full Rack deployments: 8 db, 16 storage
+
+@endmindmap

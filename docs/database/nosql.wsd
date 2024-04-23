@@ -1,0 +1,23 @@
+@startmindmap
+
+title "OCI - NoSQL"
+footer Disponível em: https://github.com/acnaweb/oci
+
+*[#F8F8FF] NoSQL
+
+**_ Key values
+**_ Column-family
+**_ Graph
+**_ Document
+**_ Flexible data models: Json, KV, columnar, schemaless
+**_ Consistency & Durability: ACID / Multi-region
+**_ Low latency
+
+**[#LightGray] Use Cases
+***_ IoT
+***_ Mobile 
+***_ 360 degree customer view
+***_ Digital advertising
+***_ Online game
+
+@endmindmap

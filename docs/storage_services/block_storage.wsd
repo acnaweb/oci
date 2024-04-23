@@ -1,0 +1,53 @@
+@startmindmap
+
+title "OCI - Storage Services)"
+footer Disponível em: https://github.com/acnaweb/oci
+
+*[#F8F8FF] Storage Services
+
+**[#LightGray] Object Storage
+***_ UC: Public Endpoint
+***_ Storage type: unlimited
+***_ Logs, content, big data
+***_ Durability & Redundancy
+***_ Scalability
+***_ Performance
+***_ Data Consistency
+***_ Security/Encryption: at rest AES-256
+***_ Security/Encryption: in transit TLS
+***_ Security/IAM
+***_ Data Retrival: Standard (frequently accessad data)\nArchive storage (longer retrieval)
+***_ Versioning: object versioning, protection against overwrites or deletes
+***_ SDKs & Tooling: REST API, CLI
+***_ Multi-part upload: allowing for parallel uploads
+
+**[#LightGray] File Storage
+***_ UC: Patches
+***_ VMs access one NFS (Network File System)
+***_ Can be mounted to Instances
+***_ Increase spaces
+***_ Scalable: auto 
+***_ Redundancy: 5-way replicated storage in diferente Fault DomainStereotypeFontColor
+***_ Snapshot: Point in Time image + auto backup
+***_ Encryption: at rest AES-256
+***_ Encryption: in transit TLS
+***_ NFS v3 Protocol
+***_ POSIX-Compliant
+***_ Integrates with other services
+***_ Monitoring and Metrics: alarms
+***_ Cross Region Replication
+
+**[#LightGray] Block Storage
+***_ UC Boot + Data
+***_ Atached to Compute
+***_ Performance: IOPS (IO per second)
+***_ Availability:99.995%
+***_ Encryption: all by default / AES
+***_ Backup & Cloning: automatic to Object Storage
+***_ Integration: Tight integration
+***_ Volume groups (VGB): Grouping multiple \nblock volumes as single unit
+***_ Volume groups (VGB): Manage, backup or clone
+***_ Cross Region Replication
+***_ Types: Balanced + HP/UHP High Performance
+
+@endmindmap

@@ -1,0 +1,25 @@
+@startmindmap
+
+title "OCI - Autonomous Database (ADB)"
+footer Disponível em: https://github.com/acnaweb/oci
+
+*[#F8F8FF] Autonomous
+
+**_ Automate many routine tasks 
+**_ Managed Database
+**_ DBAless
+**_ Self-driving: tuning, patching, updates, backups (use ML)
+**_ Self-securing: external atacks\napplies security patches without downtime\nencription
+**_ Self-repairing: 99.995% uptime, automatic failover and disaster recovery
+**_ Scaling: Automatically / manual
+**_ Opex reduction: DBAless
+**_ Perfomance: High performance / optimized query processing 
+**_ Servless vs Dedicated
+**_ User provisiong (PDB) -> Oracle deploy and manages 
+**_ Single tenant
+
+**[#LightGray] Types
+***_ Data Warehouse (ADW): analytics, reporting, dw workload
+***_ Transaction Processing (ATW): transactions
+
+@endmindmap
