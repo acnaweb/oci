@@ -1,0 +1,25 @@
+@startmindmap
+
+title "OCI - Shared Security Model"
+footer Disponível em: https://github.com/acnaweb/oci
+
+*[#F8F8FF] Base
+
+**[#LightGray] Oracle's Responsability
+***_ Infrasctructure
+***_ Operational (CloudOps)
+***_ Software Assurance (patches)
+***_ Iaas / PaaS / SaaS
+
+**[#LightGray] Customer's Responsability
+***_ Data at Rest, in Transit
+***_ IAM 
+****_ Compartments 
+****_ Groups
+****_ Policies
+***_ Network
+***_ Operating System 
+***_ Security Compliance
+***_ Security in the Tenancy
+
+@endmindmap

@@ -1,0 +1,46 @@
+@startmindmap
+
+title "OCI - Security Services"
+footer Disponível em: https://github.com/acnaweb/oci
+
+*[#F8F8FF] Base
+
+**[#LightGray] Identity and Access Management (IAM)
+***_ Authentication & Authorization
+***_ User Authentication -> MFA
+***_ Policy-based Access Control (rules)
+***_ Identity Federation (Azure AD)
+
+**[#LightGray] Cloud Guard
+***_ CSPM - Cloud Security Posture Management?
+***_ Threat Detection: identities + flags pontential 
+***_ Risk Scoring: resources + configurations 
+***_ Automated Remediation: Automatically remediate issues
+
+**[#LightGray] Web Application Firewall (WAF)
+***_ Internet
+***_ Traffic filtering
+***_ Bot Managment
+***_ DDoS Protection
+
+**[#LightGray] Database Security
+***_ LGPD/CIS/GDPR
+***_ Data Safe
+***_ Security Assessment
+***_ User Assessment
+***_ Data Discovery (PII)
+***_ Auditing (events)
+***_ Data Masking
+
+**[#LightGray] OCI Vault (HSM)
+***_ Store your keys
+***_ Secure Secret Storage: managing, encryption, policies
+****_ (HSM) Hardware Security Model
+****_ SoftwareSecurity Model
+***_ Key Management: for OCI services and applications
+
+**[#LightGray] Security Zones
+***_ Security Best Practices Enforcement
+***_ Prevention of Non-Compliant Actions
+
+@endmindmap
