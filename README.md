@@ -138,6 +138,31 @@ Oracle Cloud Infrastructure
 
 </details>
 
+## 4. Storage Services
+
+<details>
+<summary>Block Storage</summary>
+
+![](assets/docs/storage_services/block_storage/block_storage.svg)
+
+</details>
+
+## 5. Security and Compliance
+
+<details>
+<summary>Shared Security Model</summary>
+
+![](assets/docs/security/shared_security/shared_security.svg)
+
+</details>
+
+<details>
+<summary>Security Services</summary>
+
+![](assets/docs/security/security_services/security_services.svg)
+
+</details>
+
 ## References 
 
 - https://oracle.com/cloud
