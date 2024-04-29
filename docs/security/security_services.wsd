@@ -29,7 +29,7 @@ footer Disponível em: https://github.com/acnaweb/oci
 ***_ Security Assessment
 ***_ User Assessment
 ***_ Data Discovery (PII)
-***_ Auditing (events)
+***_ Auditing (events from API)
 ***_ Data Masking
 
 **[#LightGray] OCI Vault (HSM)

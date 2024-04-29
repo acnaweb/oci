@@ -163,6 +163,14 @@ Oracle Cloud Infrastructure
 
 </details>
 
+<details>
+<summary>IAM</summary>
+
+![](assets/docs/security/iam/iam.svg)
+
+</details>
+
+
 ## References 
 
 - https://oracle.com/cloud

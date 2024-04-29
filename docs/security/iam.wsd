@@ -21,6 +21,30 @@ footer Disponível em: https://github.com/acnaweb/oci
 ***_ Policy
 ***_ Federation
 
+**[#LightGray] Identify Domains
+***_ User configurations and security settings
+***_ Container to manager users, roles, Federation, SSO, MFA
+***_ UC: admins have control over differente environments
+***_ Isolate resources in multi-NoteTextAlignment
+***_ Each domain can be associated with single Oracle Cloud Account
+***_ Each tenancy incluide Default identity in the root compartment
+
+**[#LightGray] Policy
+***_ Auth-Z
+***_ by Group by Compartiment
+***_ Permissions
+***_ Set of rules
+***_ verbs: inspect (list), read (metadata), use(action), manage(create, delete)
+***_ Super admin: Allow group Administrators to manage all resources in tenancy
+
+**[#LightGray] Tenancy
+***_ root Compartment: all resources
+***_ Cloud Account
+***_ Available Domain
+***_ Logical construct: create, organize, administer resources
+***_ Private area
+***_ Content: IAM
+
 **[#LightGray] User
 ***_ Individual
 ****_ Manage
@@ -38,6 +62,8 @@ footer Disponível em: https://github.com/acnaweb/oci
 ***_ Collection Users
 ***_ Need te same type of access resources/compartment
 ***_ Segregation of duties
+***_ by Compartments (?)
+
 
 **[#LightGray] Dynamic Group
 ***_ Change at time
@@ -46,6 +72,12 @@ footer Disponível em: https://github.com/acnaweb/oci
 ***_ Instances in Tenancy
 ***_ Instances act as "principal"
 
+**[#LightGray] Compartment
+***_ Inside Tenancy
+***_ Isolation
+***_ DEV, UAT, PROD
+***_ Collection of related resources (by resource)
+***_ Measuring usage and billing
 
 **[#LightGray] Resource
 ***_ Cloud objects
