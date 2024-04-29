@@ -9,15 +9,20 @@ Oracle Cloud Infrastructure
 
 ## 1. Compute
 
-#### Mind Map
+<details>
+<summary>Compute</summary>
 
 ![](assets/docs/compute/compute/compute.svg)
+
+</details>
+
 
 ## 2. Networking Services
 
 ### VCN (Virtual Cloud Network)
 
->  Architecture
+<details>
+<summary>Architecture</summary>
 
 ![](assets/imgs/oci-vcn.png)
 
@@ -25,15 +30,24 @@ Oracle Cloud Infrastructure
 
 ![](assets/docs/networking/vcn/vcn.svg)
 
-### Subnet
+</details>
+
+<details>
+<summary>Subnet</summary>
 
 ![](assets/docs/networking/subnet/subnet.svg)
 
-### Security List
+</details>
+
+<details>
+<summary>Security List</summary>
 
 ![](assets/docs/networking/security_list/security_list.svg)
 
-### Load Balancer
+</details>
+
+<details>
+<summary>Load Balancer</summary>
 
 >  Architecture
 
@@ -43,6 +57,10 @@ Oracle Cloud Infrastructure
 
 ![](assets/docs/networking/load_balancer/load_balancer.svg)
 
+</details>
+
+<details>
+<summary>Customer Connectivity</summary>
 
 ### Customer Connectivity
 
@@ -53,11 +71,72 @@ Oracle Cloud Infrastructure
 
 ![](assets/docs/networking/connectivity/connectivity.svg)
 
+</details>
+
 ## 3. Database Services
 
-### How it's divides?
+<details>
+<summary>How it's divides?</summary>
 
 ![](assets/docs/database/database-services/database-services.svg)
+
+</details>
+
+<details>
+<summary>Autonomous</summary>
+
+![](assets/docs/database/autonomous/autonomous.svg)
+
+</details>
+
+<details>
+<summary>ExaCC</summary>
+
+![](assets/docs/database/exacc/exacc.svg)
+
+</details>
+
+<details>
+<summary>ExaCS</summary>
+
+![](assets/docs/database/exacs/exacs.svg)
+
+</details>
+
+<details>
+<summary>GoldenGate</summary>
+
+![](assets/docs/database/goldengate/goldengate.svg)
+
+</details>
+
+<details>
+<summary>MySql</summary>
+
+![](assets/docs/database/mysql/mysql.svg)
+
+</details>
+
+<details>
+<summary>NoSQL</summary>
+
+![](assets/docs/database/nosql/nosql.svg)
+
+</details>
+
+<details>
+<summary>OpenSearch</summary>
+
+![](assets/docs/database/opensearch/opensearch.svg)
+
+</details>
+
+<details>
+<summary>Oracle Base</summary>
+
+![](assets/docs/database/oracle-base/oracle-base.svg)
+
+</details>
 
 ## References 
 
