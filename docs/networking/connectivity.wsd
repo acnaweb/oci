@@ -1,4 +1,4 @@
-@startuml OCI - Customer Connectivity
+@startuml
 
 title "OCI - Customer Connectivity"
 footer Disponível em: https://github.com/acnaweb/oci
