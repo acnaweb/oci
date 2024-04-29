@@ -1,0 +1,66 @@
+@startmindmap
+
+title "OCI - IAM"
+footer Disponível em: https://github.com/acnaweb/oci
+
+*[#F8F8FF] IAM
+
+**[#LightGray] Concepts
+***_ Gartner: Users x Resources X Time x Reasons
+***_  Address the mission-critical: access and compliance
+***_ Increasingly business-aligned
+
+**[#LightGray] Components
+***_ Resource
+****_ Resource
+***_ User
+***_ Group
+***_ Dynamic Group
+***_ Compartment
+***_ Tenancy
+***_ Policy
+***_ Federation
+
+**[#LightGray] User
+***_ Individual
+****_ Manage
+***_ System (Service Account)
+****_ API calls
+***_ Credentials
+****_ Console Password (user)
+****_ API signing key (PEM format)
+****_ Auth token
+****_ Customer Secret Keys
+****_ OAuth 2.0 Client Credentials
+****_ IAM Database Password
+
+**[#LightGray] Group
+***_ Collection Users
+***_ Need te same type of access resources/compartment
+***_ Segregation of duties
+
+**[#LightGray] Dynamic Group
+***_ Change at time
+***_ Contains resources
+***_ Rules: resources are created or deleted
+***_ Instances in Tenancy
+***_ Instances act as "principal"
+
+
+**[#LightGray] Resource
+***_ Cloud objects
+***_ OCID: Oracle Cloud Id
+****_ ocid1.<RESOURCE TYPE>.<REALM>.[REGION][.FUTURE USE].<UNIQUE ID>
+
+**[#LightGray] Auth-N vs Auth-Z
+***_ Auth-N: who you are?
+****_ Local user OCI
+****_ Federated user Azure AD
+***_ Auth-Z: what you can do?
+****_ Auth-Z: Policies
+***_ Identities
+****_ Groups, Instances, Users
+***_ Permissions
+****_ Policies, Compartments, Resources
+
+@endmindmap
