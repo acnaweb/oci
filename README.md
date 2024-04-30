@@ -5,7 +5,7 @@
 OCI Foundations Associate 1Z0-1085-23
 
 > [!IMPORTANT] 
-> - _Course_: https://www.udemy.com/course/oracle-cloud-foundations-associate-1z0-1085
+> - [Curso: Oracle CIoud 2023 - OCI Foundations Associate 1Z0-1085-23][1]
 > - _Author_: [Kshitij Joy (Oracle Cloud Architect / Oracle ACE Pro)](https://www.linkedin.com/in/kshitij-joy-oracle-cloud-architect-oracle-ace-pro-7ab7bb7/)
 
 ## 1. Compute
@@ -25,6 +25,9 @@ OCI Foundations Associate 1Z0-1085-23
 <summary>Architecture</summary>
 
 ![](assets/imgs/oci-vcn.png)
+
+> [!NOTE]
+> Fonte: [Curso: Oracle CIoud 2023 - OCI Foundations Associate 1Z0-1085-23][1]
 
 #### Mind Map
 
@@ -53,6 +56,9 @@ OCI Foundations Associate 1Z0-1085-23
 
 ![](assets/imgs/oci-load-balancer.png)
 
+> [!NOTE]
+> Fonte: [Curso: Oracle CIoud 2023 - OCI Foundations Associate 1Z0-1085-23][1]
+
 #### Mind Map
 
 ![](assets/docs/networking/load_balancer/load_balancer.svg)
@@ -68,6 +74,8 @@ OCI Foundations Associate 1Z0-1085-23
 
 ![](assets/imgs/oci-customer_connectivity.png)
 
+> [!NOTE]
+> Fonte: [Curso: Oracle CIoud 2023 - OCI Foundations Associate 1Z0-1085-23][1]
 
 ![](assets/docs/networking/connectivity/connectivity.svg)
 
@@ -197,3 +205,5 @@ OCI Foundations Associate 1Z0-1085-23
 
 - https://oracle.com/cloud
 - [IP Subnet Calculator](https://www.subnet-calculator.com/subnet.php)
+
+[1]: <https://www.udemy.com/course/oracle-cloud-foundations-associate-1z0-1085> "Oracle CIoud 2023 - OCI Foundations Associate 1Z0-1085-23"
