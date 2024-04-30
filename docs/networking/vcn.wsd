@@ -14,7 +14,7 @@ footer Disponível em: https://github.com/acnaweb/oci
 ***_ Route Tables: How traffic between VCN / internet
 ***_ Internet Gateway: Offers between VCN / internet
 ***_ NAT Gateway: Instance connections without expose their IP\nPrivate -> Public
-***_ Service Gateway: Acesses do Oracle services same region
+***_ Service Gateway: Accesses to Oracle services same region
 ***_ Dynamic Routing Gateway (DRG): VCN:VNC / VCN:on-premisses, VCN:other clouds (Border Gateway Protocol BGP)
 ***_ Local Peering Gatewary (LPG): VCN:VNC same region
 ***_ Remote Peering Gatewary (RPG): LPGs across regions
