@@ -26,9 +26,6 @@ OCI Foundations Associate 1Z0-1085-23
 
 ![](assets/imgs/oci-vcn.png)
 
-* d
-
-> [!NOTE]
 > Fonte: [Curso: Oracle CIoud 2023 - OCI Foundations Associate 1Z0-1085-23][1]
 
 #### Mind Map
@@ -58,7 +55,6 @@ OCI Foundations Associate 1Z0-1085-23
 
 ![](assets/imgs/oci-load-balancer.png)
 
-> [!NOTE]
 > Fonte: [Curso: Oracle CIoud 2023 - OCI Foundations Associate 1Z0-1085-23][1]
 
 #### Mind Map
@@ -76,7 +72,6 @@ OCI Foundations Associate 1Z0-1085-23
 
 ![](assets/imgs/oci-customer_connectivity.png)
 
-> [!NOTE]
 > Fonte: [Curso: Oracle CIoud 2023 - OCI Foundations Associate 1Z0-1085-23][1]
 
 ![](assets/docs/networking/connectivity/connectivity.svg)
