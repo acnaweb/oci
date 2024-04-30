@@ -5,8 +5,8 @@
 OCI Foundations Associate 1Z0-1085-23
 
 > [!IMPORTANT] 
-> - https://www.udemy.com/course/oracle-cloud-foundations-associate-1z0-1085
-> - Author: [Kshitij Joy (Oracle Cloud Architect / Oracle ACE Pro)](https://www.linkedin.com/in/kshitij-joy-oracle-cloud-architect-oracle-ace-pro-7ab7bb7/)
+> - _Course_: https://www.udemy.com/course/oracle-cloud-foundations-associate-1z0-1085
+> - _Author_: [Kshitij Joy (Oracle Cloud Architect / Oracle ACE Pro)](https://www.linkedin.com/in/kshitij-joy-oracle-cloud-architect-oracle-ace-pro-7ab7bb7/)
 
 ## 1. Compute
 
