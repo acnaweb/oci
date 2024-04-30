@@ -1,0 +1,28 @@
+@startmindmap
+
+title "OCI - Pricing model"
+footer Disponível em: https://github.com/acnaweb/oci
+
+*[#F8F8FF] Pricing model
+
+**[#LightGray] Models
+***_ Pay as you go (PAYG)
+***_ Monthly Flex (Universal Credits)
+***_ Bring Your Own License (BYOL)
+
+**[#LightGray] Pay as you go (PAYG)
+***_ Compute, database
+***_ Not discounted
+
+**[#LightGray] Monthly Flex (Universal Credits) 
+***_ Prepaid card
+***_ > $1000 > 12 months
+***_ > 33%-60% saving
+***_ Discount based on size of deal and term
+***_ Usage is consumed from monthly
+
+**[#LightGray] Bring Your Own License (BYOL)
+***_ Apply your current on-premisses licences
+
+
+@endmindmap

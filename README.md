@@ -170,6 +170,21 @@ Oracle Cloud Infrastructure
 
 </details>
 
+## 6. Governance and Administration
+
+<details>
+<summary>Oracle Pricing Model</summary>
+
+![](assets/docs/governance/pricing/pricing.svg)
+
+</details>
+
+<details>
+<summary>Free Tier & Always Free</summary>
+
+![](assets/docs/governance/free_tier/free_tier.svg)
+
+</details>
 
 ## References 
 

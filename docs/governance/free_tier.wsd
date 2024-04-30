@@ -1,0 +1,19 @@
+@startmindmap
+
+title "OCI - Tiers"
+footer Disponível em: https://github.com/acnaweb/oci
+
+*[#F8F8FF] Base
+
+**[#LightGray] Free Tier
+***_ $ 300 until 30 days
+***_ $ 8 instances 
+***_ $ 5 TB storage
+
+**[#LightGray] Always Free
+***_ $ 24x7
+***_ $ 2 Autonomous
+***_ $ 2 Compute VMs; block, object and archive storage
+***_ $ Load Balances, data egress; monitoring and notifications
+
+@endmindmap
