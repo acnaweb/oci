@@ -29,6 +29,10 @@ OCI Foundations Associate 1Z0-1085-23
 > [!NOTE]
 > Fonte: [Curso: Oracle CIoud 2023 - OCI Foundations Associate 1Z0-1085-23][1]
 
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+
 #### Mind Map
 
 ![](assets/docs/networking/vcn/vcn.svg)
