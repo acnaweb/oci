@@ -1,11 +1,12 @@
 # OCI - Oracle Cloud Infrastructure
 
+### Learning 
+
 OCI Foundations Associate 1Z0-1085-23
 
-## Index
-
-- [1. Compute](#compute)
-- [2. Networking Services](#networking-services)
+> [NOTE!] Course 
+> - https://www.udemy.com/course/oracle-cloud-foundations-associate-1z0-1085
+> - Author: [Kshitij Joy (Oracle Cloud Architect / Oracle ACE Pro)](https://www.linkedin.com/in/kshitij-joy-oracle-cloud-architect-oracle-ace-pro-7ab7bb7/)
 
 ## 1. Compute
 
@@ -195,5 +196,4 @@ OCI Foundations Associate 1Z0-1085-23
 ## References 
 
 - https://oracle.com/cloud
-- https://www.udemy.com/course/oracle-cloud-foundations-associate-1z0-1085
 - [IP Subnet Calculator](https://www.subnet-calculator.com/subnet.php)
