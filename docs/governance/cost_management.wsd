@@ -1,0 +1,33 @@
+@startmindmap
+
+title "OCI - Cost Management Tools"
+footer Disponível em: https://github.com/acnaweb/oci
+
+*[#F8F8FF] Base
+
+**[#LightGray] Budgets
+***_ Budget Creation and Management
+***_ Alert and Notification
+***_ Monitoring
+
+**[#LightGray] Usage Reoorts
+***_ Detailed Usage Data
+***_ Analysis and Auditing
+***_ Integration
+
+**[#LightGray] Cost Analysis
+***_ Comprehensive Cost Metrics
+***_ Trend Identification
+***_ Graular Filters
+
+**[#LightGray] Pricing Calculator
+***_ Cost Estimation
+***_ Comparison and Optimization
+***_ Export and Sharing
+
+**[#LightGray] Oracle Cloud Advisor 
+***_ Optimization Recommandations
+***_ Best Practices
+***_ Security and Performance Insights
+
+@endmindmap

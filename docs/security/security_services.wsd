@@ -12,7 +12,7 @@ footer Disponível em: https://github.com/acnaweb/oci
 ***_ Identity Federation (Azure AD)
 
 **[#LightGray] Cloud Guard
-***_ CSPM - Cloud Security Posture Management?
+***_ CSPM - Cloud Security Posture Management
 ***_ Threat Detection: identities + flags pontential 
 ***_ Risk Scoring: resources + configurations 
 ***_ Automated Remediation: Automatically remediate issues
@@ -31,6 +31,7 @@ footer Disponível em: https://github.com/acnaweb/oci
 ***_ Data Discovery (PII)
 ***_ Auditing (events from API)
 ***_ Data Masking
+***_ Data Safe: Monitoring and securing your database workloads
 
 **[#LightGray] OCI Vault (HSM)
 ***_ Store your keys

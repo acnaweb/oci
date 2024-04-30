@@ -1,6 +1,6 @@
-# OCI
+# OCI - Oracle Cloud Infrastructure
 
-Oracle Cloud Infrastructure
+OCI Foundations Associate 1Z0-1085-23
 
 ## Index
 
@@ -15,7 +15,6 @@ Oracle Cloud Infrastructure
 ![](assets/docs/compute/compute/compute.svg)
 
 </details>
-
 
 ## 2. Networking Services
 
@@ -183,6 +182,13 @@ Oracle Cloud Infrastructure
 <summary>Free Tier & Always Free</summary>
 
 ![](assets/docs/governance/free_tier/free_tier.svg)
+
+</details>
+
+<details>
+<summary>Cost Management</summary>
+
+![](assets/docs/governance/cost_management/cost_management.svg)
 
 </details>
 
